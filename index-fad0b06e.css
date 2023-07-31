@@ -2286,9 +2286,9 @@ body,
     margin-left: calc(2.5rem * calc(1 - var(--tw-space-x-reverse)));
   }
 }
-@media (min-width: 1024px) {
+/* @media (min-width: 1024px) {
   .lg\:px-8 {
     padding-left: 2rem;
     padding-right: 2rem;
   }
-}
+} */
