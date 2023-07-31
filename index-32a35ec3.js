@@ -33667,10 +33667,10 @@ const X1 = "/assets/128-2237767f.png",
   Q1 = {},
   J1 = { class: "relative bg-white" },
   Z1 = Vu(
-    '<div class="pointer-events-none absolute inset-0 z-30 shadow" aria-hidden="true"></div><div class="relative z-20"><div class="mx-auto flex flex-row max-w-7xl items-center justify-between py-5 px-6 sm:py-4 md:justify-start md:space-x-10 lg:px-8"><div><a href="/" class="flex"><img class="h-8 w-auto sm:h-10" src="' +
-      X1 +
-      '" alt=""></a></div><div class="hidden md:flex md:flex-1 md:items-center md:justify-between"><nav class="flex space-x-10"><a href="#" class="text-base font-medium text-gray-500 hover:text-gray-900">Extension</a></nav><div class="hidden flex items-center md:ml-12"><a href="#" class="text-base font-medium text-gray-500 hover:text-gray-900">Sign in</a><a href="#" class="ml-8 inline-flex items-center justify-center rounded-md border border-transparent bg-indigo-600 px-4 py-2 text-base font-medium text-white shadow-sm hover:bg-indigo-700">Sign up</a></div></div></div></div>',
-    2
+    // '<div class="pointer-events-none absolute inset-0 z-30 shadow" aria-hidden="true"></div><div class="relative z-20"><div class="mx-auto flex flex-row max-w-7xl items-center justify-between py-5 px-6 sm:py-4 md:justify-start md:space-x-10 lg:px-8"><div><a href="/" class="flex"><img class="h-8 w-auto sm:h-10" src="' +
+    //   X1 +
+    //   '" alt=""></a></div><div class="hidden md:flex md:flex-1 md:items-center md:justify-between"><nav class="flex space-x-10"><a href="#" class="text-base font-medium text-gray-500 hover:text-gray-900">Extension</a></nav><div class="hidden flex items-center md:ml-12"><a href="#" class="text-base font-medium text-gray-500 hover:text-gray-900">Sign in</a><a href="#" class="ml-8 inline-flex items-center justify-center rounded-md border border-transparent bg-indigo-600 px-4 py-2 text-base font-medium text-white shadow-sm hover:bg-indigo-700">Sign up</a></div></div></div></div>',
+    // 2
   ),
   eA = [Z1];
 function tA(t, e) {
