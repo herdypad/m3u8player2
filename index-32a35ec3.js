@@ -33811,57 +33811,10 @@ const iA = Y1(Q1, [["render", tA]]),
                   40,
                   uA
                 ),
-                Xe(
-                  "button",
-                  {
-                    type: "submit",
-                    class:
-                      "text-white absolute right-2.5 bottom-2.5 bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-4 py-2 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800",
-                    onClick: S,
-                  },
-                  " Play "
-                ),
-              ]),
-              Xe("div", cA, [
-                Xe(
-                  "a",
-                  { href: n("https://vjs.zencdn.net/v/oceans.mp4") },
-                  "https://vjs.zencdn.net/v/oceans.mp4",
-                  8,
-                  dA
-                ),
-              ]),
-              Xe("div", hA, [
-                Xe(
-                  "a",
-                  {
-                    href: n(
-                      "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
-                    ),
-                  },
-                  "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-                  8,
-                  fA
-                ),
+
               ]),
             ]),
-            Xe("div", pA, [
-              Xe("footer", mA, [
-                Xe("div", gA, [
-                  _A,
-                  Xe("div", yA, [
-                    Xe(
-                      "p",
-                      vA,
-                      " © " +
-                        Dy(jl(s)) +
-                        " M3U8.Dev, Inc. All rights reserved. ",
-                      1
-                    ),
-                  ]),
-                ]),
-              ]),
-            ]),
+       
           ],
           64
         )
